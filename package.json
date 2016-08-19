@@ -2,7 +2,7 @@
   "name": "sails-jwt",
   "private": true,
   "version": "1.0.0",
-  "description": "a Sails application",
+  "description": "a Sails application for JWT token authentication",
   "keywords": ["sails", "jwt", "auth" ],
   "dependencies": {
     "bcrypt": "^0.8.7",
@@ -34,8 +34,12 @@
   "main": "app.js",
   "repository": {
     "type": "git",
-    "url": "git://github.com/anonymous node/sails user/sails-jwt.git"
+    "url": "git://github.com/raghavmac/sails-jwt.git"
   },
-  "author": "anonymous node/sails user",
-  "license": ""
+  "author": "Manikandan S",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/raghavmac/sails-jwt/issues"
+  },
+  "homepage": "https://github.com/raghavmac/sails-jwt#readme"
 }
