@@ -3,7 +3,7 @@
 a [Sails](http://sailsjs.org) application for JWT authentication with custom policies
 
 ### Installation
-Install the dependencies and devDependencies and start the server.
+Install the dependencies and start the server.
 
 ```sh
 $ git clone https://github.com/raghavmac/sails-jwt.git
